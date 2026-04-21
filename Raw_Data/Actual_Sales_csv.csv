@@ -1,0 +1,104 @@
+﻿Booking_Date2,Customer_ID,Customer Name,Configuration,Location,Tower,Project Name,Parent Source,Lead Mode,Sourcing Manager,Closing Manger,Property Type,Budget for property upto,Floor Number,Unit Number,dup_count,Unit Size,Booking Amount,Agreement Value,AOP %,Registration Date,Days,Brokerage Eligible
+10/27/2025,1008,Jivin Kalla,2bhk,Sion,B,Vallia,Direct,Direct,Yakshit Balan,Shray Amble,Under Construction,15000000.00,18,A3,1,650,210430,10168892,0.005,12/6/2025,40,Yes
+12/6/2025,1014,Aarush Goswami,2bhk,Mahim,D,Woods,Direct,Direct,Tushar Ray,Shray Amble,Ready To Move,15000000.00,9,A1,1,650,374539,11060962,0.005,12/10/2025,4,No
+2/1/2025,1034,Rasha Ratta,1bhk,Kandivali,C,Crescent,Channel Partner,Union Realty Group,Fateh Handa,Shray Amble,Ready To Move,10000000.00,5,A4,1,400,283567,7239353,0.02,2/10/2025,9,No
+8/22/2025,1036,Ritvik Ahluwalia,1bhk,Goregaon,C,Crescent,Channel Partner,Crystal Builders,Jhanvi Madan,Vritika Bhakta,Under Construction,10000000.00,29,A4,1,400,187724,8407486,0.02,9/18/2025,27,No
+7/23/2025,1042,Samarth Hans,1bhk,Colaba,B,Crescent,Channel Partner,NewWave Estates,Vidur Srinivasan,Ishaan Balay,Under Construction,10000000.00,15,A3,1,400,431938,7965490,0.02,9/8/2025,47,Yes
+7/23/2025,1045,Parinaaz Sen,2bhk,Matunga,B,Triangle,Channel Partner,Evolve Homes,Shanaya Shetty,Hansh Srivastava,Ready To Move,15000000.00,36,A4,1,650,417476,14984518,0.02,9/13/2025,52,Yes
+1/4/2025,1047,Renee Sridhar,1bhk,Juhu,C,Woods,Channel Partner,Element Real Estate,Neysa Mallick,Vardaniya Thakur,Under Construction,10000000.00,8,A3,1,400,315055,7215986,0.02,1/10/2025,6,No
+5/20/2025,1052,Ishita Sami,2bhk,Goregaon,C,Crescent,Direct,Direct,Ayesha Date,Vritika Bhakta,Under Construction,15000000.00,37,A9,1,650,379564,13808762,0.005,6/13/2025,24,No
+5/8/2025,1067,Ivan Wadhwa,2bhk,Malad,D,Crescent,Direct,Direct,Adira Tank,Hansh Srivastava,Ready To Move,15000000.00,8,A10,1,650,106381,11910282,0.005,7/7/2025,60,Yes
+11/12/2025,1068,Pranay Sathe,1bhk,Borivali,E,Woods,Channel Partner,Vision Realty,Tushar Ray,Urvi Wason,Under Construction,10000000.00,23,A8,1,400,220152,8762761,0.02,12/1/2025,19,No
+7/17/2025,1077,Jayant Vaidya,1bhk,Parel,D,Crescent,Direct,Direct,Jhanvi Madan,Advik Chandra,Ready To Move,10000000.00,2,A6,1,400,403506,6176676,0.005,7/27/2025,10,No
+4/22/2025,1082,Hansh Kohli,2bhk,Grant Road,D,Crescent,Channel Partner,Skyline Builders,Ayesha Date,Hansh Srivastava,Under Construction,15000000.00,35,A2,1,650,218859,14923590,0.02,6/18/2025,57,Yes
+7/22/2025,1092,Shlok Vohra,2bhk,Vile Parle,C,Crescent,Direct,Direct,Vaibhav Arora,Indranil Rau,Ready To Move,15000000.00,26,A10,1,650,122617,10168628,0.005,8/1/2025,10,No
+8/6/2025,1107,Shlok Raman,2bhk,Grant Road,C,Triangle,Channel Partner,Evolve Homes,Navya Kashyap,Divyansh Ramachandran,Ready To Move,15000000.00,16,A8,1,650,123419,10228760,0.02,9/29/2025,54,Yes
+3/17/2025,1108,Yuvaan Jhaveri,4bhk,Mira Road,B,Woods,Channel Partner,Genesis Estates,Jhanvi Madan,Urvi Wason,Under Construction,20000000.00,19,A1,1,650,207601,21479778,0.02,3/21/2025,4,No
+8/30/2025,1118,Anika Bhatia,2bhk,Grant Road,B,Crescent,Channel Partner,UrbanRise Partners,Jhanvi Madan,Divyansh Ramachandran,Ready To Move,15000000.00,6,A7,1,650,174163,12999008,0.02,10/28/2025,59,Yes
+4/12/2025,1136,Adah Keer,1bhk,Goregaon,D,Triangle,Direct,Direct,Damini Din,Shray Amble,Under Construction,10000000.00,11,A9,1,400,112075,7896579,0.005,5/18/2025,36,Yes
+1/4/2025,1137,Anahita Sehgal,1bhk,Malad,C,Triangle,Direct,Direct,Neysa Mallick,Shray Amble,Under Construction,10000000.00,7,A6,1,400,148352,6825963,0.005,3/10/2025,65,Yes
+1/9/2025,1138,Trisha Jani,3bhk,Kandivali,D,Triangle,Channel Partner,MapleLeaf Realty,Vaibhav Arora,Hansh Srivastava,Under Construction,20000000.00,29,A10,1,650,432218,16076395,0.02,2/10/2025,32,No
+8/10/2025,1141,Hiran D’Alia,2bhk,Dadar,A,Crescent,Channel Partner,Zenith Estates,Yakshit Balan,Divyansh Ramachandran,Ready To Move,15000000.00,6,A1,1,650,358155,14049518,0.02,9/6/2025,27,No
+3/25/2025,1150,Umang Shan,2bhk,Mira Road,B,Crescent,Channel Partner,Apex Realty,Alia Dube,Urvi Wason,Under Construction,15000000.00,33,A9,1,650,90882,11441763,0.02,4/19/2025,25,No
+6/21/2025,1155,Anaya Rastogi,2bhk,Kandivali,D,Crescent,Channel Partner,Pacific Land,Damini Din,Vritika Bhakta,Under Construction,15000000.00,1,A9,1,650,289222,13295501,0.02,7/16/2025,25,No
+9/10/2025,1159,Arhaan Sundaram,2bhk,Parel,C,Crescent,Direct,Direct,Navya Kashyap,Urvi Wason,Ready To Move,15000000.00,10,A7,1,650,263686,10942178,0.005,11/8/2025,59,Yes
+11/3/2025,1161,Eva Kothari,4bhk,Kandivali,E,Crescent,Direct,Direct,Damini Din,Urvi Wason,Under Construction,20000000.00,31,A11,1,650,157964,17904489,0.005,12/1/2025,28,No
+3/20/2025,1163,Anika Deshpande,4bhk,Chandivali,C,Crescent,Direct,Direct,Ahana Bhardwaj,Hansh Srivastava,Under Construction,20000000.00,35,A10,1,650,119267,21066990,0.005,4/7/2025,18,No
+12/31/2025,1165,Miraya Golla,2bhk,Sewri,C,Vallia,Channel Partner,Prime Ventures,Ayesha Date,Divyansh Ramachandran,Ready To Move,15000000.00,37,A5,1,650,286385,13660615,0.02,2/11/2026,42,Yes
+11/8/2025,1166,Purab Balay,1bhk,Kopar Khairane,A,Crescent,Direct,Direct,Navya Kashyap,Vritika Bhakta,Under Construction,10000000.00,40,A4,1,400,217817,8498496,0.005,12/1/2025,23,No
+7/10/2025,1180,Badal Hegde,2bhk,Kandivali,C,Triangle,Channel Partner,Opus Realty,Vidur Srinivasan,Divit Sastry,Ready To Move,15000000.00,26,A1,1,650,204720,14418720,0.02,8/5/2025,26,No
+4/16/2025,1198,Anika Bandi,2bhk,Kandivali,C,Triangle,Direct,Direct,Fateh Handa,Divyansh Ramachandran,Ready To Move,15000000.00,30,A12,1,650,405449,12222026,0.005,5/29/2025,43,Yes
+8/16/2025,1200,Romil Sachdev,1bhk,Worli,A,Vasudha,Channel Partner,Skyline Builders,Jhanvi Madan,Vritika Bhakta,Under Construction,10000000.00,35,A9,1,400,251101,6676008,0.02,8/17/2025,1,No
+12/27/2025,1206,Yashvi Shere,2bhk,Kandivali,D,Triangle,Direct,Direct,Tiya Gour,Hansh Srivastava,Under Construction,15000000.00,7,A2,1,650,255266,13322655,0.005,1/10/2026,14,No
+9/28/2025,1213,Anahita Dugal,2bhk,Lower Parel,B,Triangle,Channel Partner,Pinnacle Properties,Ayesha Date,Vritika Bhakta,Ready To Move,15000000.00,18,A2,1,650,249934,11786097,0.02,11/20/2025,53,Yes
+6/16/2025,1218,Anvi Yogi,2bhk,Versova,A,Triangle,Direct,Direct,Navya Kashyap,Hansh Srivastava,Ready To Move,15000000.00,16,A9,1,650,236934,11798211,0.005,8/3/2025,48,Yes
+2/12/2025,1220,Kavya Ganesan,2bhk,Chunabhatti,A,Crescent,Channel Partner,Prime Ventures,Jhanvi Madan,Vritika Bhakta,Under Construction,15000000.00,31,A6,1,650,328323,10043872,0.02,2/26/2025,14,No
+5/30/2025,1223,Abram Shankar,2bhk,Kandivali,B,Triangle,Channel Partner,Pioneer Landmarks,Yakshit Balan,Ishaan Balay,Ready To Move,15000000.00,3,A9,1,650,258473,10128015,0.02,6/4/2025,5,No
+5/13/2025,1224,Renee Samra,2bhk,Kandivali,D,Crescent,Channel Partner,PrimeAxis Developments,Mehul Gara,Vardaniya Thakur,Under Construction,15000000.00,33,A12,1,650,357016,12575218,0.02,5/26/2025,13,No
+3/13/2025,1229,Taran Seth,2bhk,Goregaon,B,Triangle,Channel Partner,Orion Developments,Yakshit Balan,Vardaniya Thakur,Ready To Move,15000000.00,6,A9,1,650,423694,10278831,0.02,4/10/2025,28,No
+2/19/2025,1231,Dhanush Devi,1bhk,Santa Cruz,E,Vallia,Direct,Direct,Samar Comar,Hansh Srivastava,Under Construction,10000000.00,37,A3,1,400,325162,6146759,0.005,4/1/2025,41,Yes
+8/19/2025,1232,Shray Chaudhry,2bhk,Chembur,C,Crescent,Direct,Direct,Fateh Handa,Hansh Srivastava,Under Construction,15000000.00,36,A9,1,650,152466,10354904,0.005,10/9/2025,51,Yes
+11/24/2025,1240,Amira Rajagopal,2bhk,Malad,B,Triangle,Channel Partner,Phoenix Realty,Fateh Handa,Divit Sastry,Under Construction,15000000.00,24,A7,1,650,190570,14237919,0.02,12/18/2025,24,No
+11/19/2025,1258,Samiha Warrior,2bhk,Malad,E,Woods,Direct,Direct,Neysa Mallick,Hansh Srivastava,Ready To Move,15000000.00,40,A8,1,650,384202,10990515,0.005,1/3/2026,45,Yes
+6/18/2025,1282,Sahil Dalal,2bhk,Kandivali,B,Vallia,Direct,Direct,Yakshit Balan,Shray Amble,Ready To Move,15000000.00,38,A5,1,650,209628,14969695,0.005,8/14/2025,57,Yes
+11/26/2025,1296,Azad Ramanathan,2bhk,Borivali,D,Woods,Channel Partner,Aspire Realty,Jhanvi Madan,Vritika Bhakta,Under Construction,15000000.00,2,A10,1,650,412526,11512570,0.02,12/5/2025,9,No
+2/27/2025,1302,Nitara Sridhar,3bhk,Kandivali,B,Crescent,Channel Partner,Infinity Realty,Umang Khare,Urvi Wason,Under Construction,20000000.00,3,A3,1,650,299612,21157250,0.02,3/4/2025,5,No
+12/18/2025,1308,Yashvi Chaudry,1bhk,Mahim,B,Triangle,Channel Partner,TrueSpace Realty,Sana Sarin,Shray Amble,Under Construction,10000000.00,33,A8,1,400,107781,8878269,0.02,2/5/2026,49,Yes
+11/12/2025,1311,Aarna Hayre,4bhk,Borivali,A,Vasudha,Channel Partner,Skyline Builders,Tiya Gour,Indranil Rau,Ready To Move,20000000.00,3,A6,1,650,353122,20670776,0.02,12/10/2025,28,No
+12/15/2025,1328,Tara Shankar,4bhk,Kandivali,E,Woods,Channel Partner,RealVista Group,Sana Rege,Divyansh Ramachandran,Ready To Move,20000000.00,32,A4,1,650,363937,19740040,0.02,12/17/2025,2,No
+12/22/2025,1332,Prerak Bhargava,2bhk,Malad,B,Woods,Direct,Direct,Umang Khare,Vritika Bhakta,Under Construction,15000000.00,22,A5,1,650,218987,11332742,0.005,2/5/2026,45,Yes
+6/18/2025,1334,Mahika Kurian,1bhk,Dadar,B,Vasudha,Channel Partner,Elite Estates,Jhanvi Madan,Hansh Srivastava,Under Construction,10000000.00,38,A7,1,400,125622,8801157,0.02,7/21/2025,33,No
+9/13/2025,1336,Vihaan Sabharwal,1bhk,Kandivali,C,Vasudha,Direct,Direct,Umang Khare,Urvi Wason,Ready To Move,10000000.00,13,A11,1,400,308212,8557152,0.005,9/25/2025,12,No
+11/30/2025,1341,Myra Chandran,1bhk,Kandivali,E,Crescent,Channel Partner,Infinity Realty,Shanaya Shetty,Hansh Srivastava,Under Construction,10000000.00,23,A6,1,400,235455,8173462,0.02,12/17/2025,17,No
+10/27/2025,1345,Myra Sachdev,2bhk,Nariman Point,B,Crescent,Direct,Direct,Alia Dube,Divit Sastry,Under Construction,15000000.00,6,A8,1,650,156286,10447870,0.005,12/10/2025,44,Yes
+5/6/2025,1348,Manikya Dugar,1bhk,Goregaon,B,Triangle,Channel Partner,Sunset Holdings,Umang Khare,Vritika Bhakta,Under Construction,10000000.00,4,A9,1,400,166862,7630721,0.02,5/14/2025,8,No
+11/30/2025,1353,Ahana  Khurana,2bhk,Kandivali,B,Woods,Direct,Direct,Jhanvi Madan,Advik Chandra,Under Construction,15000000.00,2,A9,1,650,180107,13540139,0.005,12/25/2025,25,No
+10/19/2025,1354,Oorja Thakkar,1bhk,Kandivali,A,Vasudha,Direct,Direct,Mehul Rajagopalan,Shray Amble,Under Construction,10000000.00,13,A6,1,400,298446,7869814,0.005,11/25/2025,37,Yes
+10/12/2025,1379,Yuvraj  Rajagopalan,1bhk,Juhu,D,Vasudha,Direct,Direct,Yakshit Balan,Divyansh Ramachandran,Ready To Move,10000000.00,14,A8,1,400,280372,7588134,0.005,11/3/2025,22,No
+5/18/2025,1393,Nehmat Gulati,2bhk,Goregaon,B,Vasudha,Direct,Direct,Mehul Rajagopalan,Divit Sastry,Under Construction,15000000.00,32,A3,1,650,302130,10515492,0.005,7/12/2025,55,Yes
+6/16/2025,1416,Trisha Randhawa,2bhk,Chembur,B,Crescent,Channel Partner,TrueSpace Realty,Mehul Rajagopalan,Divyansh Ramachandran,Under Construction,15000000.00,15,A12,1,650,190793,13569986,0.02,7/29/2025,43,Yes
+12/6/2025,1421,Shray Luthra,2bhk,Malad,E,Crescent,Channel Partner,UrbanRise Partners,Damini Din,Hansh Srivastava,Under Construction,15000000.00,20,A8,1,650,331062,12406767,0.02,2/10/2026,66,Yes
+10/7/2025,1425,Kiara Chanda,1bhk,Matunga,A,Woods,Direct,Direct,Navya Kashyap,Urvi Wason,Under Construction,10000000.00,27,A1,1,400,415965,6348725,0.005,10/14/2025,7,No
+5/17/2025,1428,Nakul Dara,2bhk,Chembur,A,Vallia,Channel Partner,Crystal Builders,Jhanvi Madan,Shray Amble,Under Construction,15000000.00,21,A11,1,650,361488,11545267,0.02,5/21/2025,4,No
+6/29/2025,1430,Nitara Banik,2bhk,Chandivali,B,Woods,Channel Partner,OmniLand Partners,Tiya Gour,Advik Chandra,Under Construction,15000000.00,35,A3,1,650,345378,13426731,0.02,7/25/2025,26,No
+5/26/2025,1454,Ivan Divan,2bhk,Kandivali,B,Crescent,Channel Partner,Pacific Land,Himmat Solanki,Urvi Wason,Ready To Move,15000000.00,14,A5,1,650,211353,14104015,0.02,7/23/2025,58,Yes
+1/14/2025,1465,Nishith Sarna,2bhk,Kandivali,B,Crescent,Channel Partner,Aspire Realty,Adira Tank,Shray Amble,Under Construction,15000000.00,35,A11,1,650,284390,11567467,0.02,2/4/2025,21,No
+2/12/2025,1466,Heer Atwal,1bhk,Sion,B,Crescent,Channel Partner,Unity Homes,Sana Rege,Urvi Wason,Under Construction,10000000.00,3,A7,1,400,371250,6700101,0.02,4/3/2025,50,Yes
+8/10/2025,1467,Vardaniya Iyer,2bhk,Kandivali,E,Crescent,Channel Partner,NovaHomes,Shray Sunder,Indranil Rau,Under Construction,15000000.00,22,A4,1,650,193016,12842946,0.02,8/16/2025,6,No
+12/4/2025,1476,Adah Deo,1bhk,Goregaon,E,Crescent,Direct,Direct,Tiya Gour,Hansh Srivastava,Under Construction,10000000.00,38,A11,1,400,192794,7184447,0.005,12/26/2025,22,No
+1/22/2025,1486,Himmat Rattan,1bhk,Kandivali,D,Woods,Channel Partner,NovaHomes,Shray Rajagopalan,Vritika Bhakta,Under Construction,10000000.00,30,A4,1,400,408225,8132737,0.02,3/26/2025,63,Yes
+10/17/2025,1500,Amani Barman,2bhk,Sewri,C,Woods,Channel Partner,Genesis Estates,Jhanvi Madan,Indranil Rau,Under Construction,15000000.00,19,A9,1,650,279825,10752940,0.02,12/15/2025,59,Yes
+1/30/2025,1507,Zoya Bajwa,2bhk,Prabhadevi,B,Triangle,Direct,Direct,Navya Kashyap,Shray Amble,Under Construction,15000000.00,3,A10,1,650,347887,10523624,0.005,3/9/2025,38,Yes
+7/1/2025,1508,Nitya Chanda,4bhk,Malad,C,Crescent,Channel Partner,CapitalCity Partners,Adira Tank,Divyansh Ramachandran,Ready To Move,20000000.00,13,A5,1,650,319708,18634564,0.02,8/7/2025,37,Yes
+9/19/2025,1509,Raunak Hayre,2bhk,Kandivali,A,Triangle,Channel Partner,Prime Ventures,Sana Rege,Urvi Wason,Ready To Move,15000000.00,36,A12,1,650,359900,14104058,0.02,11/14/2025,56,Yes
+1/18/2025,1519,Charvi Bhatnagar,3bhk,Chunabhatti,B,Vallia,Channel Partner,Infinity Realty,Yakshit Balan,Urvi Wason,Under Construction,20000000.00,19,A6,1,650,385843,19307753,0.02,3/13/2025,54,Yes
+11/13/2025,1521,Indranil Doctor,2bhk,Parel,B,Crescent,Direct,Direct,Adira Tank,Vritika Bhakta,Under Construction,15000000.00,26,A5,1,650,333104,12508389,0.005,12/18/2025,35,No
+11/5/2025,1536,Bhavin Kadakia,2bhk,Goregaon,C,Woods,Direct,Direct,Ahana Bhardwaj,Ishaan Balay,Under Construction,15000000.00,23,A9,1,650,261370,14757025,0.005,12/2/2025,27,No
+4/22/2025,1545,Saanvi Ahluwalia,2bhk,Khar,B,Woods,Channel Partner,UrbanRise Partners,Tushar Ray,Vardaniya Thakur,Ready To Move,15000000.00,24,A13,1,650,241280,13308910,0.02,6/22/2025,61,Yes
+2/4/2025,1558,Yashvi Babu,2bhk,Kandivali,B,Vasudha,Channel Partner,Aspire Realty,Tiya Gour,Urvi Wason,Ready To Move,15000000.00,34,A2,1,650,191879,14722658,0.02,3/4/2025,28,No
+11/22/2025,1560,Tiya Bala,2bhk,Malad,B,Crescent,Channel Partner,Apex Realty,Mehul Rajagopalan,Hansh Srivastava,Under Construction,15000000.00,8,A8,1,650,120349,13056579,0.02,12/1/2025,9,No
+11/9/2025,1567,Sumer Viswanathan,1bhk,Borivali,E,Crescent,Channel Partner,Prime Ventures,Navya Kashyap,Shray Amble,Under Construction,10000000.00,16,A6,1,400,220413,6629172,0.02,12/15/2025,36,Yes
+9/7/2025,1568,Tarini Chaudhary,1bhk,Malad,E,Crescent,Channel Partner,OmniLand Partners,Shray Rajagopalan,Vritika Bhakta,Under Construction,10000000.00,3,A13,1,400,337594,7843040,0.02,10/4/2025,27,No
+4/16/2025,1570,Ivan Bhat,2bhk,Kandivali,E,Triangle,Direct,Direct,Neysa Mallick,Urvi Wason,Under Construction,15000000.00,18,A4,1,650,157249,14757523,0.005,5/10/2025,24,No
+6/10/2025,1573,Riya Sehgal,2bhk,Vikhroli,D,Triangle,Direct,Direct,Ayesha Date,Urvi Wason,Under Construction,15000000.00,40,A6,1,650,280171,14885248,0.005,6/13/2025,3,No
+11/13/2025,1586,Badal Dhar,2bhk,Malad,B,Crescent,Direct,Direct,Vaibhav Arora,Divyansh Ramachandran,Ready To Move,15000000.00,15,A1,1,650,402614,13842859,0.005,11/30/2025,17,No
+1/23/2025,1588,Kabir Rajan,2bhk,Mulund,A,Crescent,Direct,Direct,Damini Din,Divyansh Ramachandran,Under Construction,15000000.00,8,A4,1,650,303495,14183011,0.005,3/8/2025,44,Yes
+12/4/2025,1602,Jhanvi Sule,1bhk,Matunga,E,Triangle,Channel Partner,Skyline Builders,Ayesha Date,Vritika Bhakta,Under Construction,10000000.00,7,A9,1,400,212049,6695626,0.02,12/21/2025,17,No
+8/20/2025,1610,Zara Bhalla,2bhk,Matunga,E,Crescent,Channel Partner,NextGen Estates,Ayesha Date,Divyansh Ramachandran,Under Construction,15000000.00,30,A10,1,650,121517,12566406,0.02,10/1/2025,42,Yes
+1/25/2025,1621,Jayan Sidhu,2bhk,Bhandup,C,Crescent,Channel Partner,Evergreen Holdings,Shray Rajagopalan,Divyansh Ramachandran,Under Construction,15000000.00,27,A11,1,650,270026,10389727,0.02,2/27/2025,33,No
+6/7/2025,1623,Oorja Zachariah,2bhk,Malad,A,Woods,Direct,Direct,Shray Sunder,Urvi Wason,Under Construction,15000000.00,29,A7,1,650,156834,10252686,0.005,8/2/2025,56,Yes
+12/2/2025,1625,Rhea Dube,2bhk,Sion,D,Woods,Channel Partner,Sterling Land,Jhanvi Madan,Indranil Rau,Under Construction,15000000.00,1,A2,1,650,166307,12879336,0.02,12/6/2025,4,No
+11/2/2025,1628,Dhanuk Iyengar,1bhk,Chandivali,A,Crescent,Channel Partner,PrimeAxis Developments,Jhanvi Madan,Advik Chandra,Under Construction,10000000.00,9,A12,1,400,136726,8689473,0.02,11/10/2025,8,No
+1/20/2025,1630,Gatik Apte,2bhk,Lower Parel,A,Vasudha,Direct,Direct,Ayesha Date,Shray Amble,Under Construction,15000000.00,34,A9,1,650,300794,13799346,0.005,3/10/2025,49,Yes
+10/6/2025,1666,Nirvaan Rajagopal,3bhk,Malad,E,Woods,Direct,Direct,Ahana Bhardwaj,Vritika Bhakta,Under Construction,20000000.00,7,A12,1,650,95117,20305773,0.005,11/11/2025,36,Yes
+9/23/2025,1673,Ryan Khalsa,1bhk,Malad,D,Woods,Direct,Direct,Vidur Srinivasan,Divit Sastry,Ready To Move,10000000.00,39,A11,1,400,152350,7022684,0.005,11/20/2025,58,Yes
+6/19/2025,1675,Jayan Manne,2bhk,Nahur,C,Vasudha,Channel Partner,Infinity Realty,Damini Din,Vardaniya Thakur,Under Construction,15000000.00,14,A1,1,650,385635,10736623,0.02,7/18/2025,29,No
+11/17/2025,1676,Oorja Dhar,4bhk,Goregaon,D,Crescent,Channel Partner,FirstChoice Estates,Shray Rajagopalan,Indranil Rau,Under Construction,20000000.00,6,A4,1,650,151637,16725482,0.02,1/10/2026,54,Yes
+3/9/2025,1688,Nirvi Srinivasan,2bhk,Powai,B,Triangle,Direct,Direct,Yakshit Balan,Advik Chandra,Under Construction,15000000.00,29,A5,1,650,115308,11316234,0.005,4/24/2025,46,Yes
+4/19/2025,1693,Ranbir Koshy,1bhk,Kandivali,B,Crescent,Channel Partner,Unity Homes,Mehul Rajagopalan,Advik Chandra,Under Construction,10000000.00,39,A1,1,400,352834,8332200,0.02,6/2/2025,44,Yes
+5/1/2025,1700,Kimaya Kulkarni,2bhk,Goregaon,B,Crescent,Direct,Direct,Umang Khare,Vritika Bhakta,Ready To Move,15000000.00,33,A3,1,650,253047,12124228,0.005,6/18/2025,48,Yes
+7/23/2025,1718,Vritika Zachariah,2bhk,Goregaon,E,Vasudha,Channel Partner,Apex Realty,Umang Khare,Vritika Bhakta,Under Construction,15000000.00,7,A1,1,650,93356,14562310,0.02,9/11/2025,50,Yes
+12/21/2025,1730,Anay Divan,2bhk,Kandivali,C,Triangle,Channel Partner,Skyline Builders,Samar Comar,Hansh Srivastava,Under Construction,15000000.00,23,A11,1,650,408178,13976671,0.02,2/8/2026,49,Yes
+4/10/2025,1743,Nirvaan Bahri,2bhk,Mazgaon,D,Vallia,Channel Partner,Pioneer Landmarks,Samar Comar,Shray Amble,Under Construction,15000000.00,11,A10,1,650,357260,13629387,0.02,5/4/2025,24,No
+11/19/2025,1747,Dishani Dhaliwal,1bhk,Kandivali,D,Crescent,Channel Partner,Genesis Estates,Ahana Bhardwaj,Divyansh Ramachandran,Under Construction,10000000.00,4,A7,1,400,360095,6071879,0.02,1/22/2026,64,Yes
+5/30/2025,1749,Aarna Singh,2bhk,Worli,D,Crescent,Channel Partner,MapleLeaf Realty,Tiya Gour,Divyansh Ramachandran,Ready To Move,15000000.00,39,A9,1,650,259017,14715780,0.02,6/20/2025,21,No
